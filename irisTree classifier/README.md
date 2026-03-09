@@ -31,7 +31,7 @@ The Iris dataset is one of the most well-known datasets in machine learning. Thi
 ```
 IrisTree-Classifier/
 │
-├── iris_tree.py       # Main script
+├── main.py            # Main script
 └── README.md          # Project documentation
 ```
 
