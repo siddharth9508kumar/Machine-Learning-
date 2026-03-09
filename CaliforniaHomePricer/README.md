@@ -60,7 +60,7 @@ pip install scikit-learn pandas
 Run the model:
 
 ```bash
-python home_pricer.py
+python main.py
 ```
 
 **Expected Output:**
