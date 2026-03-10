@@ -13,7 +13,7 @@ The goal is to strengthen my understanding of data preprocessing, model building
 - Pandas
 - Matplotlib / Seaborn
 - Scikit-learn
-- Jupyter Notebook / VS Code
+- Colab Notebook / VS Code
 
 ---
 
